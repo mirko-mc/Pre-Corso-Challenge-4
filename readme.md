@@ -1,6 +1,6 @@
 # YouTube-clone
 
-Questo è un clone estetico di youtube, creato per praticare la programmazione web. Il progetto è stato realizzato utilizzando HTML e CSS.
+Questo è un clone estetico di YouTube, creato per praticare la programmazione web. Il progetto è stato realizzato utilizzando HTML e CSS.
 
 ## Come eseguire il progetto
 
